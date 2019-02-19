@@ -2,4 +2,4 @@
 
 ### Overview
 
-Simple web scraper to find your common posts with old pals on the ROBLOX forum archive. More data mining features to come. Dependencies: requests, BeautifulSoup4.
+Simple web scraper to find your common posts with old pals on the ROBLOX forum archive. Run with Python3. Dependencies: requests, BeautifulSoup4.
